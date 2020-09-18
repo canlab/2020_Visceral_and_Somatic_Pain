@@ -1,4 +1,4 @@
-2020_Visceral_Somatic_Pain
+2020_Visceral_and_Somatic_Pain
 ==========
 
 This repository contains code used to examine commonalities and differences in brain responses to somatic and visceral stimulation. 
